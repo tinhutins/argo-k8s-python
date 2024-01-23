@@ -13,7 +13,7 @@ spec:
   source:
     path: k8s-apps-deployment/python-test
     repoURL: https://github.com/tinhutins/argo-k8s-python.git
-    targetRevision: tino-test
+    targetRevision: tino-prod
   syncPolicy:
     automated:
       prune: true
