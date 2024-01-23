@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: "tino-python-app.tinotest.com"  
+  - host: "tino-python-app-test.tinotest.com"  
     http:
       paths:
       - pathType: Prefix
