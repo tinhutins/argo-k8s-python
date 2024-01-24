@@ -14,4 +14,4 @@ resources:
     
 images:
 - name: hutinskit/python-test-app
-  newTag: 1.0.136
+  newTag: 1.0.137
