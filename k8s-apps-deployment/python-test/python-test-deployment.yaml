@@ -23,5 +23,3 @@ spec:
             cpu: 200m
           requests:
             cpu: 100m
-      imagePullSecrets:
-      - name: regcred
